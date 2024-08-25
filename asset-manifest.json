@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/Kiwi/static/css/main.d6dff3f4.css",
+    "main.js": "/github.io/Kiwi/static/js/main.074a1081.js",
+    "static/js/453.4b8d8fd0.chunk.js": "/github.io/Kiwi/static/js/453.4b8d8fd0.chunk.js",
+    "static/media/owambe.svg": "/github.io/Kiwi/static/media/owambe.35f819853c198b579dd2186cbb620048.svg",
+    "static/media/question.svg": "/github.io/Kiwi/static/media/question.d8f2651f863c2af79fb31d54c2542b86.svg",
+    "static/media/streak.svg": "/github.io/Kiwi/static/media/streak.19da03f48a98f3c1737bd5ca9d1ea62e.svg",
+    "static/media/kiwi.svg": "/github.io/Kiwi/static/media/kiwi.2f1295a457e0a0038560586bbe6a19eb.svg",
+    "static/media/user.svg": "/github.io/Kiwi/static/media/user.41b5a9bbc9eacb53814d3956e1584aee.svg",
+    "static/media/home-icon.svg": "/github.io/Kiwi/static/media/home-icon.cdfd3f78890094bc4a529c754594462a.svg",
+    "static/media/rands.svg": "/github.io/Kiwi/static/media/rands.9c33b3f8cd5d43bf84b8ce05d2bff79b.svg",
+    "static/media/message.svg": "/github.io/Kiwi/static/media/message.e2f38e01b148981d1de9af80a0a3bb71.svg",
+    "static/media/wishlist.svg": "/github.io/Kiwi/static/media/wishlist.59ec0af086859f7beef9398cea7c460f.svg",
+    "index.html": "/github.io/Kiwi/index.html",
+    "static/media/newpost.svg": "/github.io/Kiwi/static/media/newpost.fd26e5baf357a7a8d722ed04e979808e.svg",
+    "main.d6dff3f4.css.map": "/github.io/Kiwi/static/css/main.d6dff3f4.css.map",
+    "main.074a1081.js.map": "/github.io/Kiwi/static/js/main.074a1081.js.map",
+    "453.4b8d8fd0.chunk.js.map": "/github.io/Kiwi/static/js/453.4b8d8fd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6dff3f4.css",
+    "static/js/main.074a1081.js"
+  ]
+}
