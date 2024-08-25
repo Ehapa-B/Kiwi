@@ -1,0 +1,27 @@
+.hero-section {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eeeeee;
+    font-size: 24px;
+    font-weight: bold;
+    color: gray;
+    margin: 40px;
+    padding: 150px;
+    transition: all .3s ease;
+    border-radius: 12px;
+}
+
+.hero-section:hover {
+    color: #fff;
+    background-color: #FCDD00;
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 60px;
+        font-size: 18px;
+    }
+}
+  

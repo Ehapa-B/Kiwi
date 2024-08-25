@@ -1,0 +1,11 @@
+.custom-button {
+    flex: 1 1 calc(25% - 20px); /* 4 buttons per row, responsive */
+    padding: 15px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    text-align: center;
+    margin: 5px;
+}
+  

@@ -1,0 +1,50 @@
+.box {
+    display: flex;
+    flex: 1;
+    gap: 50px;
+    flex-direction: row;
+    margin: 40px;
+}
+
+.box-sections,
+.box-sectioned {
+    background-color: #eeeeee;
+    padding: 100px 278px;
+    border-radius: 12px;
+}
+
+.box-sections:hover, 
+.box-sectioned:hover {
+    background-color: #FCDD00;
+}
+
+@media (min-width: 1440px) {
+    .box-sections,
+    .box-sectioned {
+      padding: 130px 328px;
+   } 
+}
+@media (max-width: 1024px) {
+    .box-sections,
+    .box-sectioned {
+      background-color: #eeeeee;
+      padding: 100px 220px;
+      margin-top: 30px;
+      border-radius: 12px;
+   } 
+}
+
+@media (max-width: 768px) {
+    .box {
+        display: block;
+    }
+
+    .box-sections,
+    .box-sectioned {
+      background-color: #eeeeee;
+      padding: 90px 28px;
+      margin-top: 30px;
+      border-radius: 12px;
+    }
+}
+

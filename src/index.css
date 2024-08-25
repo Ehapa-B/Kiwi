@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+:root {
+  /* color */
+  --yellow-color: #FCDD00;
+  --light-dark: #4F4F4F;
+  --white-color: #FFFFFF;
+  --light-gray: #EFEFEF;
+  --gray-color: #C0BFBF;
+
+
+  /* border radius */
+  --border-radius-0-4: 0.4rem;
+  --border-radius-0-6: 0.6rem;
+  --border-radius-1: 1rem;
+  --border-radius-5: 5rem;
+  --border-radius-2: 2rem;
+
+  /* box shadow */
+  --box-shadow-1: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+
+  /* transition */
+  --transition-5s: all 0.5s ease-in-out;
+  --transition-200: all 200ms ease;
+}
+
+.container1 {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
